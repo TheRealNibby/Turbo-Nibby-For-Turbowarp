@@ -3,6 +3,7 @@ class turbonibby {
     return {
       id: 'nibbygithub',
       name: 'Turbo Nibby',
+	  docsURI: 'https://sites.google.com/view/turbo-nibby-docs',
       blocks: [
         {
           opcode: 'nibbygithub',
@@ -12,6 +13,7 @@ class turbonibby {
       ]
     };
   }
+  
 
   nibbygithub() {
     return 'TheRealNibby';
@@ -20,4 +22,4 @@ class turbonibby {
 
 
  
-Scratch.extensions.register(new turbonibby());
+Scratch.extensions.register(new turbonibby()); 
