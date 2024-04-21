@@ -12,4 +12,16 @@ How to get turbo nibby.
 
 6. At the top click See Inside
 
-7
+7. Click the red extension button in the bottom left
+
+8. Tap the Turbowarp button
+
+9. Select custom extension
+
+10. Click text
+
+11. Paste the copied code into the box.
+
+12. Tap load
+
+All done, Enjoy the extension
