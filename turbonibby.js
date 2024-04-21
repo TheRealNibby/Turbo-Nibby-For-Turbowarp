@@ -1,3 +1,4 @@
+// most of this code is just from turbowarp
 class turbonibby {
   getInfo() {
     return {
