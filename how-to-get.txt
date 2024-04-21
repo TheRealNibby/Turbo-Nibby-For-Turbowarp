@@ -1,0 +1,15 @@
+How to get turbo nibby.
+
+1. Open https://turbowarp.org/
+
+2. Make a new tab and open https://github.com/TheRealNibby/Turbo-Nibby-For-Turbowarp
+
+3. Select turbonibby.js in github
+
+4. Copy all the code from turbonibby.js
+
+5. Reopen the https://turbowarp.org/ tab
+
+6. At the top click See Inside
+
+7
